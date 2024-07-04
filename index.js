@@ -4,7 +4,7 @@ let valorreal = Number(prompt("Qual o seu valor em reais?"));
 let conversao = valorreal / cotacao;
 alert(conversao);*/
 
-/*
+/*2.
 let usuario = Number(prompt("Digite um número"));
 if (usuario % 2 == 0){
 console.log(usuario,"é par");
